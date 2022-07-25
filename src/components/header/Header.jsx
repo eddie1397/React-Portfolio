@@ -1,9 +1,9 @@
-import React from 'react'
-import './header.css'
-import CTA from './CTA'
-import ME from '../../assets/me.png'
-import HeaderSocials from './HeaderSocials'
-
+import React from "react";
+import "./header.css";
+import CTA from "./CTA";
+import ME from "../../assets/me.png";
+import ME2 from "../../assets/male_icon.png";
+import HeaderSocials from "./HeaderSocials";
 
 // Start HERE
 
@@ -21,10 +21,12 @@ function Header() {
           <img src={ME} alt="Me" />
         </div>
 
-        <a href="#contact" className='scroll__down'>Scroll Down</a>
+        <a href="#contact" className="scroll__down">
+          Scroll Down
+        </a>
       </div>
     </header>
-  )
+  );
 }
 
-export default Header
+export default Header;
