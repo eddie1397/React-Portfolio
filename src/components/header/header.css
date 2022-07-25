@@ -19,5 +19,17 @@ header {
     gap: 1.2rem;
     justify-content: center;
     /* margin-bottom: 2.5rem; */
-
 }
+
+/* +++++++++++++++++++++++  HEADER SOCIAL ICONS   +++++++++++++++++++++++ */
+
+.header__socials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+    position: absolute;
+    left: 0;
+    bottom: 3rem;
+}
+
