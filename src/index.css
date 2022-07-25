@@ -1,3 +1,8 @@
+/* Importing Google Fonts for the Site */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+
+/* Setting Default parameters to 0 for better styling */
 *{
     margin: 0;
     padding: 0;
@@ -8,19 +13,58 @@
     text-decoration: none;
 }
 
+/* These variables are available globally in our code we are going to use them to
+set diffent styles for our persona site. */
 :root{
     /* Variant Set 1 */
     --color-bg: #1f1f38;
     --color-bg-variant: #2c2c6c;
     --color-primary:#4db5ff
-    --color-primary-variantL rgba(77, 181,255,0.4);
+    --color-primary-variant rgba(77, 181,255,0.4);
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
 
-    /* Variant Set 2 */
+    --container-width-lg: 75%;
+    --container-width-md: 86%;
+    --container-width-sm: 90%;
 
+
+    /* Variant Set 2 THIS WILL BE USED FOR LIGHT AND DARK MODES/ THEMES
+    --color-bg-1: lavender;
+    --color-bg-variant-1: #5bc88e;
+    --color-secondary:#c3df49
+    --color-secondary-variant rgb(223, 134, 198);
+
+    */
+
+
+    /* Variant Set 3 
+    THIS WILL BE USED FOR A PRIDE THEMED SITE
     
-    /* Variant Set 3 */
+    STYLES AND COLORS WILL BE ADDED LATER
 
+    */
 
 }
+
+/* Smooth Scrolling and no visual for the scrolling bar applied to the site  */
+html{
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+/* Default Body Font,Styles and Background image added */
+body{
+    font-family: 'Poppins', sans-serif;
+    background: var(--color-bg);
+    color: var(--color-white);
+    line-height: 1.7;
+    background-image: url(../src/assets/bg-texture.png);
+
+}
+
+
+/* +++++++++++++++++++++++  GENERAL STYLES  +++++++++++++++++++++++ */
