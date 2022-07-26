@@ -82,8 +82,8 @@ header {
         height: 100vh;
     }
     
-    .header_socials,
-    .scroll_down {
+    .header__socials,
+    .scroll__down {
         display: none;
     }
     
