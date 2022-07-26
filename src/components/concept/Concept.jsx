@@ -3,7 +3,7 @@ import './concept.css'
 
 function Concept() {
   return (
-    <div>Concept</div>
+    <section id="concept">Concept</section>
   )
 }
 
