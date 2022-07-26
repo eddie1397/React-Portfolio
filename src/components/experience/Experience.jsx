@@ -77,7 +77,7 @@ function Experience() {
 
               <article className='experience__details'>
                 <BsFillPatchCheckFill />
-                <h4>Javascript</h4>
+                <h4>Node.js</h4>
                 <small class='text-light'>Experienced</small>
               </article>
 
@@ -95,7 +95,7 @@ function Experience() {
 
               <article className='experience__details'>
                 <BsFillPatchCheckFill />
-                <h4>MySQL</h4>
+                <h4>SQL</h4>
                 <small class='text-light'>Experienced</small>
               </article>
 

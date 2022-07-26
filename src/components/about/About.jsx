@@ -45,18 +45,18 @@ const about = () => {
               </article>
             </div>
           {/* BOX 4 */}
-            <div className="about__content">
+            {/* <div className="about__content">
               <article className="about__card">
                 <FiUsers className="about__icon"/>
                 <h5>Example</h5>
                 <small>Can Be Easily Removed!</small>
               </article>
-          </div>
+          </div> */}
         </div>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima illo praesentium consequatur ad facere, adipisci placeat. Voluptatum, esse magnam beatae vero ut natus ipsum voluptatem, consequatur ad eveniet fugiat aliquam.
           </p>
-          <a href="#contact" className="btn btn-primary">Let's Talk</a>
+          <a href="#contact" className="btn btn-primary btn-aboutme">Let's Talk</a>
         </div>
       </div>
     </section>

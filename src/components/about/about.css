@@ -1,3 +1,7 @@
+.about {
+    padding-bottom: 500px;
+}
+
 .about__container {
     display: grid;
     grid-template-columns: 35% 50%;
@@ -59,6 +63,10 @@
     color: var(--color-light)
 }
 
+.about__content {
+    /* padding-bottom: 200px; */
+}
+
 .about__content p {
     margin: 2rem 0 2.6rem ;
     color: var(--color-light)
@@ -100,5 +108,7 @@
     .about__content p {
         margin: 1.5rem 0;
     }
+
+
     
 }
