@@ -12,7 +12,7 @@ function Services() {
         <article className='service'>
           <div className='service__head'>
             <h3>UI/UX Design</h3>
-
+          </div>
             <ul className='service__list'>
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
@@ -39,13 +39,13 @@ function Services() {
                 <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
               </li>
             </ul>
-          </div>
         </article>
        {/* END OF UI/UX */}
 
        <article className='service'>
           <div className='service__head'>
             <h3>Web Development</h3>
+          </div>
 
             <ul className='service__list'>
               <li>
@@ -72,15 +72,34 @@ function Services() {
                 <AiOutlineCheckCircle className='service__list-icon' />
                 <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
               </li>
+
+              <li>
+                <AiOutlineCheckCircle className='service__list-icon' />
+                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+              </li>
+
+              <li>
+                <AiOutlineCheckCircle className='service__list-icon' />
+                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+              </li>
+
+              <li>
+                <AiOutlineCheckCircle className='service__list-icon' />
+                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+              </li>
+
+              <li>
+                <AiOutlineCheckCircle className='service__list-icon' />
+                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+              </li>
             </ul>
-          </div>
         </article>
        {/* END OF WEB DEVELOPMENT */}
 
        <article className='service'>
           <div className='service__head'>
-            <h3>Content Creation</h3>
-
+            <h3>Photography</h3>
+          </div>
             <ul className='service__list'>
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
@@ -106,10 +125,19 @@ function Services() {
                 <AiOutlineCheckCircle className='service__list-icon' />
                 <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
               </li>
+
+              <li>
+                <AiOutlineCheckCircle className='service__list-icon' />
+                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+              </li>
+
+              <li>
+                <AiOutlineCheckCircle className='service__list-icon' />
+                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+              </li>
             </ul>
-          </div>
         </article>
-       {/* END OF CONTENT CREATION */}
+       {/* END OF PHOTOGRAPHY */}
       </div>
     </section>
   )
