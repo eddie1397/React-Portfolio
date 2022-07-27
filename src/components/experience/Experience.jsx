@@ -11,98 +11,126 @@ function Experience() {
       <div className="container experience__container">
         <div className="experience__frontend">
           <h3>Frontend Development</h3>
-          <div className="experience-content">
+          <div className="experience__content">
             <article className='experience__details'>
-              <BsFillPatchCheckFill />
-              <h4>HTML</h4>
-              <small class='text-light'>Experienced</small>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>HTML</h4>
+                <small class='text-light'>Experienced</small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsFillPatchCheckFill />
-              <h4>CSS</h4>
-              <small class='text-light'>Intermediate</small>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>CSS</h4>
+                <small class='text-light'>Intermediate</small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsFillPatchCheckFill />
-              <h4>Javascript</h4>
-              <small class='text-light'>Experienced</small>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Javascript</h4>
+                <small class='text-light'>Experienced</small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsFillPatchCheckFill />
-              <h4>Material Design</h4>
-              <small class='text-light'>Experienced</small>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Material Design</h4>
+                <small class='text-light'>Experienced</small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsFillPatchCheckFill />
-              <h4>Bootstrap</h4>
-              <small class='text-light'>Experienced</small>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Bootstrap</h4>
+                <small class='text-light'>Experienced</small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsFillPatchCheckFill />
-              <h4>Tailwind</h4>
-              <small class='text-light'>Experienced</small>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Tailwind</h4>
+                <small class='text-light'>Experienced</small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsFillPatchCheckFill />
-              <h4>React</h4>
-              <small class='text-light'>Experienced</small>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>React</h4>
+                <small class='text-light'>Experienced</small>
+              </div>
             </article>
           </div>
         </div>
 
 
-      {/* END OF FRONT END */}
+        {/* END OF FRONT END */}
         
         
         <div className="experience-backend">
           <h3>Backend Development</h3>
-            <div className="experience-content">
+            <div className="experience__content">
               <article className='experience__details'>
-                <BsFillPatchCheckFill />
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+               <div>
                 <h4>Node.js</h4>
                 <small class='text-light'>Experienced</small>
+               </div>
               </article>
 
               <article className='experience__details'>
-                <BsFillPatchCheckFill />
-                <h4>MongoDB</h4>
-                <small class='text-light'>Intermediate</small>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>MongoDB</h4>
+                  <small class='text-light'>Intermediate</small>
+                </div>
               </article>
 
               <article className='experience__details'>
-                <BsFillPatchCheckFill />
-                <h4>Node.js</h4>
-                <small class='text-light'>Experienced</small>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>Node.js</h4>
+                  <small class='text-light'>Experienced</small>
+                </div>
               </article>
 
               <article className='experience__details'>
-                <BsFillPatchCheckFill />
-                <h4>Python</h4>
-                <small class='text-light'>Experienced</small>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>Python</h4>
+                  <small class='text-light'>Experienced</small>
+                </div>
               </article>
 
               <article className='experience__details'>
-                <BsFillPatchCheckFill />
-                <h4>PHP</h4>
-                <small class='text-light'>Experienced</small>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>PHP</h4>
+                  <small class='text-light'>Experienced</small>
+                </div>
               </article>
 
               <article className='experience__details'>
-                <BsFillPatchCheckFill />
-                <h4>SQL</h4>
-                <small class='text-light'>Experienced</small>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>SQL</h4>
+                  <small class='text-light'>Experienced</small>
+                </div>
               </article>
 
               <article className='experience__details'>
-                <BsFillPatchCheckFill />
-                <h4>React</h4>
-                <small class='text-light'>Experienced</small>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>React</h4>
+                  <small class='text-light'>Experienced</small>
+                </div>
               </article>
             </div>
           </div>

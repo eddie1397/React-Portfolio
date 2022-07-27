@@ -92,7 +92,7 @@ h1 {
 section {
     margin-top: 8rem;
     /* REMOVED THIS IN ORDER TO GET THE EXPERIENCE AND ABOUT ME SECTION TO LINE UP CORRECTLY IT WORKS FOR NOW  */
-    height: 100vh;
+    /* height: 100vh; */
 
 }
 
@@ -177,7 +177,7 @@ img {
         margin-bottom: 2rem;
     }
     
-    section {
+    /* section {
         height: max-content;
-    }
+    } */
 }
