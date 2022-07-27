@@ -7,6 +7,29 @@ import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 
+const data = [
+  {
+    id: 1,
+    image: IMG1,
+    title: 'FLIX - A Movie Lovers App',
+    github: 'https://github.com',
+    demo: 'https://dribble.com'
+  },
+  {
+    id: 2,
+    image: IMG2,
+    title: 'Roseus - A Wine Lovers App',
+    github: 'https://github.com',
+    demo: 'https://dribble.com'
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: 'Guess My Number - A Guessing Game',
+    github: 'https://github.com',
+    demo: 'https://dribble.com'
+  }
+]
 
 
 function Portfolio() {
