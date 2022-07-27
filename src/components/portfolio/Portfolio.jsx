@@ -21,52 +21,10 @@ function Portfolio() {
             <img src={IMG1} alt="Project 1 Image" />
           </div>
           <h3>This is a portfolio item title</h3>
-          <a href="https://github.com" className='btn' target='_blank'>GitHub</a>
-          <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG1} alt="Project 1 Image" />
+          <div className='portfolio__item-cta'>
+            <a href="https://github.com" className='btn' target='_blank'>GitHub</a>
+            <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
-          <h3>This is a potfolio item title</h3>
-          <a href="https://github.com" className='btn' target='_blank'>GitHub</a>
-          <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG1} alt="Project 1 Image" />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <a href="https://github.com" className='btn' target='_blank'>GitHub</a>
-          <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG1} alt="Project 1 Image" />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <a href="https://github.com" className='btn' target='_blank'>GitHub</a>
-          <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG1} alt="Project 1 Image" />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <a href="https://github.com" className='btn' target='_blank'>GitHub</a>
-          <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
-        </article>
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG1} alt="Project 1 Image" />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <a href="https://github.com" className='btn' target='_blank'>GitHub</a>
-          <a href="https://dribble.com" className='btn btn-primary' target='_blank'>Live Demo</a>
         </article>
       </div>
     </section>
