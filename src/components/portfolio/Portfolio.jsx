@@ -40,7 +40,7 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'Example - An Example Game',
+    title: 'Tesla - A Website Clone',
     github: 'https://github.com',
     demo: 'https://dribble.com'
   },
