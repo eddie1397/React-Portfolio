@@ -13,7 +13,7 @@ function Header() {
       <div className="container header_container">
         <h5> Hello I'm </h5>
         <h1>Edward Binion Jr.</h1>
-        <h5 className="text-light">Software Engineer and Photographer</h5>
+        <h5 className="text-light">Software Engineer <strong className="X-icons">✘</strong> Photographer <strong className="X-icons">✘</strong> Musician</h5>
         <CTA />
         <HeaderSocials />
 

@@ -40,7 +40,9 @@ header {
     background: var(--color-primary);
 }
 
-
+.X-icons {
+    color: var(--color-primary);
+}
 
 /* +++++++++++++++++++++++  ME   +++++++++++++++++++++++ */
 .me {
