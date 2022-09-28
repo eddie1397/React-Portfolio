@@ -7,22 +7,26 @@ import IMG4 from '../../assets/portfolio/portfolio4.jpg'
 // THIS IMG IS A PNG
 import IMG5 from '../../assets/portfolio/portfolio5.png'
 import IMG6 from '../../assets/portfolio/portfolio6.jpg'
+import IMG7 from '../../assets/portfolio/portfolio7.jpg'
+import IMG8 from '../../assets/portfolio/portfolio8.jpg'
+import IMG9 from '../../assets/portfolio/portfolio9.jpg'
+
 
 const data = [
-  {
-    id: 1,
-    image: IMG1,
-    title: 'FLIX - A Movie Lovers App',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
-  },
-  {
-    id: 2,
-    image: IMG2,
-    title: 'Roseus - A Wine Lovers App',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
-  },
+  // {
+  //   id: 1,
+  //   image: IMG1,
+  //   title: 'Flix - A Movie Lovers App',
+  //   github: 'https://github.com',
+  //   demo: 'https://dribble.com'
+  // },
+  // {
+  //   id: 2,
+  //   image: IMG2,
+  //   title: 'Roseus - A Wine Lovers App',
+  //   github: 'https://github.com',
+  //   demo: 'https://dribble.com'
+  // },
   {
     id: 3,
     image: IMG3,
@@ -47,10 +51,39 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Example - An Example Game',
+    title: 'Reis - A Travel Diary',
     github: 'https://github.com',
     demo: 'https://dribble.com'
-  }
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: 'Edfud Inc. - Personal Website',
+    github: 'https://github.com/eddie1397/React-Portfolio',
+    demo: 'https://dribble.com'
+  },
+  {
+    id: 8,
+    image: IMG8,
+    title: 'Chew - A Food App',
+    github: 'https://github.com/DMaz009/chew-frontEnd',
+    demo: 'https://chew-frontend.herokuapp.com/'
+  },
+  // {
+  //   id: 9,
+  //   image: IMG9,
+  //   title: 'Flix - A Movie App',
+  //   github: 'https://github.com',
+  //   demo: 'https://dribble.com'
+  // }
+  //COMING SOON 
+  // {
+  //   id: 10,
+  //   image: IMG10,
+  //   title: 'Burr - A Weather App',
+  //   github: 'https://github.com',
+  //   demo: 'https://dribble.com'
+  // }
 ]
 
 
