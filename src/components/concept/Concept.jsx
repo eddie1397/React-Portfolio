@@ -1,12 +1,12 @@
 import React from 'react'
 import './concept.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG1 from '../../assets/portfolio/portfolio1.jpg'
+import IMG2 from '../../assets/portfolio/portfolio2.jpg'
+import IMG3 from '../../assets/portfolio/portfolio3.jpg'
+import IMG4 from '../../assets/portfolio/portfolio4.jpg'
 // THIS IMG IS A PNG
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG5 from '../../assets/portfolio/portfolio5.png'
+import IMG6 from '../../assets/portfolio/portfolio6.jpg'
 
 const data =[
   {
