@@ -31,29 +31,29 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'Guess My Number - A Guessing Game',
-    github: 'https://github.com',
+    github: 'https://github.com/eddie1397/Guess-my-number',
     demo: 'https://dribble.com'
   },
   {
     id: 4,
     image: IMG4,
     title: 'PIG - A Betting Game',
-    github: 'https://github.com',
+    github: 'https://github.com/eddie1397/PIG-',
     demo: 'https://dribble.com'
   },
   {
     id: 5,
     image: IMG5,
     title: 'Tesla - A Website Clone',
-    github: 'https://github.com',
+    github: 'https://github.com/eddie1397/Tesla',
     demo: 'https://dribble.com'
   },
   {
     id: 6,
     image: IMG6,
     title: 'Reis - A Travel Diary',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    github: 'https://github.com/eddie1397/REIS-FRONT',
+    demo: 'https://reis-frontend.herokuapp.com/'
   },
   {
     id: 7,

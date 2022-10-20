@@ -23,33 +23,33 @@ const data =[
     github: 'https://github.com',
     link: 'https://www.figma.com/file/eH7DsomwpDrqyHDmdXgmw5/FLIX?node-id=0%3A1'
   },
-  // {
-  //   id: 3,
-  //   image: IMG3,
-  //   title: 'Concept 3',
-  //   github: 'https://github.com',
-  //   demo: 'https://dribble.com'
-  // },
+  {
+    id: 3,
+    image: IMG3,
+    title: 'Guess My Number',
+    github: 'https://github.com',
+    link: 'https://www.figma.com/file/aLOBZBynA3F1EBL8XPnmO9/Guess-My-Number?node-id=0%3A1'
+  },
   // {
   //   id: 4,
   //   image: IMG4,
   //   title: 'Concept 4',
   //   github: 'https://github.com',
-  //   demo: 'https://dribble.com'
+  //   link: 'https://dribble.com'
   // },
   // {
   //   id: 5,
   //   image: IMG5,
   //   title: 'Concept 5',
   //   github: 'https://github.com',
-  //   demo: 'https://dribble.com'
+  //   link: 'https://dribble.com'
   // },
   // {
   //   id: 6,
   //   image: IMG6,
   //   title: 'Concept 6',
   //   github: 'https://github.com',
-  //   demo: 'https://dribble.com'
+  //   link: 'https://dribble.com'
   // }
 ]
 
