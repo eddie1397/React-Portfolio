@@ -32,7 +32,7 @@ const data = [
     image: IMG3,
     title: 'Guess My Number - A Guessing Game',
     github: 'https://github.com/eddie1397/Guess-my-number',
-    demo: 'https://dribble.com'
+    demo: 'https://guessmynumber13.netlify.app'
   },
   {
     id: 4,
