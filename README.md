@@ -18,23 +18,23 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+ -->
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+<!--   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
-  <h3 align="center">React Portfolio</h3>
+  <h1 align="center">React Portfolio</h3>
 
 </div>
 
@@ -52,15 +52,8 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -88,6 +81,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![React-Icons][React Icons]][React-Icons-url]
 * [![CSS][CSS]][CSS-url]
 * [![Javascript][Javascript]][Javascript-url]
+* [![Netlify][Netlify]][Netlify-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -103,11 +97,11 @@ To open the project, [CLICK HERE!](https://edfud-portfolio.netlify.app)
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<img src="src/assets/portfolio-usage/Capture1.png" alt="Capture1" width="100%">
-<img src="src/assets/portfolio-usage/Capture2.png" alt="Capture2" width="100%">
-<img src="src/assets/portfolio-usage/Capture3.png" alt="Capture3" width="100%">
-<img src="src/assets/portfolio-usage/Capture4.png" alt="Capture4" width="100%">
-<img src="src/assets/portfolio-usage/Capture5.png" alt="Capture5" width="100%">
+<img src="src\assets\portfolio-usage\Capture 1.PNG" alt="Capture1" width="100%">
+<img src="src\assets\portfolio-usage\Capture 2.PNG" alt="Capture2" width="100%">
+<img src="src\assets\portfolio-usage\Capture 3.PNG" alt="Capture3" width="100%">
+<img src="src\assets\portfolio-usage\Capture 4.PNG" alt="Capture4" width="100%">
+<img src="src\assets\portfolio-usage\Capture 5.PNG" alt="Capture5" width="100%">
 
 
 
@@ -130,12 +124,10 @@ LinkedIn: [@Eddie Binion](https://www.linkedin.com/in/eddiebinion/)
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
+* [Netlify](https://www.netlify.com/)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
@@ -178,3 +170,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Netlify-url]: https://www.netlify.com/
+[Netlify]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
