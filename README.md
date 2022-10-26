@@ -76,9 +76,9 @@ This is my personal portfolio project that was built using React.js. I built thi
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![React][React.js]][React-url]
-* [![Swiper][Swiper.js]][Swiper-url]
-* [![Email][Email.js]][Email-url]
-* [![React-Icons][React Icons]][React-Icons-url]
+* <img src="src\assets\portfolio-usage\swiper.PNG" alt="Swiper.js" width="130" height='auto'>
+* <img src="src\assets\portfolio-usage\email.PNG" alt="Email.js" width="130" height='auto'>
+* <img src="src\assets\portfolio-usage\react-icons.PNG" alt="React-Icon Logo" width="130" height='auto'>
 * [![CSS][CSS]][CSS-url]
 * [![Javascript][Javascript]][Javascript-url]
 * [![Netlify][Netlify]][Netlify-url]
