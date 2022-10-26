@@ -73,7 +73,7 @@ This is my personal portfolio project that was built using React.js. I built thi
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section was built with the following Frameworks and libraries. 
 
 * [![React][React.js]][React-url]
 * <img src="src\assets\portfolio-usage\swiper.PNG" alt="Swiper.js" width="130" height='auto'>
