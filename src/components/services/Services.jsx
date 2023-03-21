@@ -14,30 +14,36 @@ function Services() {
             <h3>UI/UX Design</h3>
           </div>
             <ul className='service__list'>
-              <li>
+            <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Design Analysis</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Website Application Design</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Mobile Application Design</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Logo Design</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Sketching and Wireframes</p>
               </li>
+
+              <li>
+                <AiOutlineCheckCircle className='service__list-icon' />
+                <p>Dynamic Prototype</p>
+              </li>
+
             </ul>
         </article>
        {/* END OF UI/UX */}
@@ -50,48 +56,48 @@ function Services() {
             <ul className='service__list'>
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Analytics Interpretation and Reporting </p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Competition Monitoring</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Pay-Per-Click Campaign Managment</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Usability Testing</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Ongoing Website Maintenance</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Search Engine Optimization (SEO)</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Email Marketing</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Website Analytics</p>
               </li>
 
-              <li>
-                <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
-              </li>
+              
+
+
+
             </ul>
         </article>
        {/* END OF WEB DEVELOPMENT */}
@@ -103,38 +109,34 @@ function Services() {
             <ul className='service__list'>
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p> Headshot Photography</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Portrait Photography</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p> Product/Commercial Photography </p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Travel Photography and Videography </p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Complete Videoa and Photo Editing Services</p>
               </li>
 
               <li>
                 <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
+                <p>Landscape/ Drone Photography and Videography</p>
               </li>
 
-              <li>
-                <AiOutlineCheckCircle className='service__list-icon' />
-                <p> Lorem, ipsum dolor sit amet adipisicing elit.</p>
-              </li>
             </ul>
         </article>
        {/* END OF PHOTOGRAPHY */}

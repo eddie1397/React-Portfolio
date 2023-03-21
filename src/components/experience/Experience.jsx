@@ -24,7 +24,7 @@ function Experience() {
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>CSS</h4>
-                <small class='text-light'>Intermediate</small>
+                <small class='text-light'>Experienced</small>
               </div>
             </article>
 
@@ -56,7 +56,7 @@ function Experience() {
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Tailwind</h4>
-                <small class='text-light'>Experienced</small>
+                <small class='text-light'>Intermediate</small>
               </div>
             </article>
 
@@ -96,26 +96,18 @@ function Experience() {
               <article className='experience__details'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>Node.js</h4>
-                  <small class='text-light'>Experienced</small>
-                </div>
-              </article>
-
-              <article className='experience__details'>
-                <BsFillPatchCheckFill className='experience__details-icon'/>
-                <div>
                   <h4>Python</h4>
-                  <small class='text-light'>Experienced</small>
+                  <small class='text-light'>Beginner</small>
                 </div>
               </article>
-
+{/* 
               <article className='experience__details'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
                   <h4>PHP</h4>
-                  <small class='text-light'>Experienced</small>
+                  <small class='text-light'>Begi</small>
                 </div>
-              </article>
+              </article> */}
 
               <article className='experience__details'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
@@ -129,9 +121,10 @@ function Experience() {
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
                   <h4>React</h4>
-                  <small class='text-light'>Experienced</small>
+                  <small class='text-light'>Intermediate</small>
                 </div>
               </article>
+
             </div>
           </div>
       </div>

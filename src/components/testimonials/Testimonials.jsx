@@ -19,25 +19,25 @@ const data = [
     id: 1,
     avatar: AVTR1,
     name: 'Tina Snow',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam, adipisci architecto! Ad quas minima dignissimos dicta nisi praesentium, accusantium a!'
+    review: 'I loved, working with Eddie, the photos came out great and at a great price.'
   },
   {
     id: 2,
     avatar: AVTR2,
     name: 'John Jameson',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam, adipisci architecto! Ad quas minima dignissimos dicta nisi praesentium, accusantium a!'
+    review: "Professionalism is AMAZING!"
   },
   {
     id: 3,
     avatar: AVTR3,
     name: 'Mark Benhan',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam, adipisci architecto! Ad quas minima dignissimos dicta nisi praesentium, accusantium a!'
+    review: "We take our yearly couple photos with Eddie, It's always a great time for us."
   },
   {
     id: 4,
     avatar: AVTR4,
     name: 'Nadeen Manshe',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam, adipisci architecto! Ad quas minima dignissimos dicta nisi praesentium, accusantium a!'
+    review: "Wouldnt go to anyone else!"
   },
 ]
 
